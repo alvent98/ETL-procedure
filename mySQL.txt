@@ -1,0 +1,25 @@
+id	circulationYear	country	used	sampleCondition
+1	1880	Greece	yes	poor
+2	1900	Ottoman Empire	yes	good
+3	2020	Trinidad & Tobago	no	excellent
+4	1857	England	yes	poor
+5	1920	French Polynesia	yes	poor
+6	1906	Russian Empire	yes	good
+7	1896	Crete	yes	good
+8	1896	Crete	yes	good
+9	1950	Greece	yes	excellent
+10	1943	Switzerland	yes	good
+11	1980	Monaco	no	excellent
+12	1970	Basutoland	no	excellent
+13	1990	Bahawalpur	no	excellent
+14	1997	India	yes	excellent
+15	1930	Transjordan	yes	good
+16	1967	United Arab Republic	yes	good
+17	1897	Portugal	yes	good
+18	1902	USA	yes	good
+19	1902	USA	yes	good
+20	1928	Turkey	yes	poor
+21	1936	Tuva	yes	good
+22	1949	Romania	yes	poor
+23	1991	Moldavia	no	excellent
+25	2021	East Timor	no	excellent
